@@ -2,8 +2,46 @@ DOCKER
 
 Docker is platform which is used for developing, running and shipping appications.
 Docker methodlogies for shipping, testing, and deploying code quickly, which helps us to reduce the delay between writing code and running its application.
+It provides the ability to package and run an application in a lossely isolated environment called a container. 
 
-Devops
+Docker provides tooling and a platform to manage the lifecycle of your components:
+
+1) Develop your application and its supporting components using containers.
+2) The container becomes the unit for distributing and testing your application.
+3) When you're ready, deploy you application into your production environment, as a container or an orchestrated service. This works the same whether your production environment 
+is a local data center, a cloud provider, or a hybrid of the two.
+
+what can I use Docker for?
+
+Fast, consistent delivery of your application.
+
+Docker streamlines the development lifecycle by allowing developers to work in a standardized environments using local containers which provide your applications and service.
+Containers are great for continuous Intergration and continuous delivery (CI/CD) workflows.
+
+Example of an Scenario
+
+=> Developers write code locally and share their work localy using containers
+=> They use docker to push their applications into a test environment and execute automated and manual tests.
+=> When developers find bugs, they can fix them in the development environment and redeploy them to the test environment for testing and validation.
+=> When testing is complete, getting the fix to the customer is as simple as pushing the updated image to the production environment.
+
+Responsive deployment and Scaling
+
+Docker's container-based platform allows for higly portable workloads. Docker containers can run a developers local laptop, on physical or virtual machines in a datacenter, on cloud
+provides, or in a mixture of environment.
+
+Docker's portability and lightweight nature also make it easy to dynamically manage workloads, scaling up or tearing down applications and servcies as busineess needs dictate, in real
+time.
+
+Running more workloads on the same hardware
+
+Docker is lightwieght and fast. It provides a viable, cost-effective alternative to hypervisor-based virtual machines, so you can use more of your server capacity to achieve your
+business goals. Docker is perfect for high density environments and for small and medium deployments where you need to do more with fewer resources.
+
+
+
+
+DEVOPS
 It is the combination of the cultural philosophies, practices, and tools that increases an organization ability to deliver applications and services at high velocity.
 DevOps is a methodology in the software development and IT industry.
 
