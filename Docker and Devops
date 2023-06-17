@@ -1,0 +1,20 @@
+DOCKER
+
+Docker is platform which is used for developing, running and shipping appications.
+Docker methodlogies for shipping, testing, and deploying code quickly, which helps us to reduce the delay between writing code and running its application.
+
+Devops
+It is the combination of the cultural philosophies, practices, and tools that increases an organization ability to deliver applications and services at high velocity.
+DevOps is a methodology in the software development and IT industry.
+
+(cultural philosophies => With DevOps, the two teams work together to optimize both the productivity of developers and the reliability of operations. 
+They strive to communicate frequently, increase efficiencies, and improve the quality of services they provide to customers.)
+
+
+Difference b/t Docker and Devops
+
+Docker allows the developer to build and run the software in a simple manner. DevOps teams can streamline containers in a cluster with the help of Kubernetes. 
+It can even help them to effectively monitor the containers.
+
+(Kubernetes is maintained by Cloud Native Computing Foundation (CNCF).)
+
